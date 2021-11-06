@@ -1,7 +1,9 @@
 const Test2 = () => {
-    return (
-        <div>master</div>
-        <div>test1</div>
-    )
-}
+  return (
+    <div>
+      <div>master</div>
+      <div>test1</div>
+    </div>
+  );
+};
 export default Test2;
