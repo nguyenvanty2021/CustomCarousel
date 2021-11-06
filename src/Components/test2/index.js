@@ -1,6 +1,6 @@
 const Test2 = () => {
     return (
-        <div></div>
+        <div>master</div>
     )
 }
 export default Test2;
